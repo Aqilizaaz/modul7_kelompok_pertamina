@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Object;
 
 class Program
 {
@@ -20,9 +21,9 @@ class Program
                 break;
                 
             case "2":
-                string filePath2 = "D:/pertamini/modul7_kelompok_pertamina/modul7_kelompok_pertamina/modul7_kelompok_pertamina/jurnal7_2_1201210005.json";
-                TeamMembers_1201210005_TeguhSambadaAbrielKarisma data = new TeamMembers_1201210005_TeguhSambadaAbrielKarisma();
-                data.)ReadJSON(filePath2)
+                string filePath2 = "D:/pertamini/modul7_kelompok_pertamina/modul7_kelompok_pertamina/modul7_kelompok_pertamina/jurnal7_2_1201210018.json";
+                DataTeamMember_1201210018 data2 = new DataTeamMember_1201210018 ();
+                data2.ReadJSON(filePath2);
                 break;
 
             default:

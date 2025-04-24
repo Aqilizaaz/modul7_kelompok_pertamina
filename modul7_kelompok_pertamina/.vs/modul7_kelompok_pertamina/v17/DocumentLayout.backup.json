@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\datamahasiswa_1201210018.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\datamahasiswa_1201210018.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_2_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\jurnal7_2_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\datamahasiswa_1201210018.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\datamahasiswa_1201210018.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_1_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DataKelompok_1201210005.cs",
+              "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
+              "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
+              "RelativeToolTip": "modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:30:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DataMahasiswa_1201210018.cs",
               "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
               "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
               "RelativeToolTip": "modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAlwB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T14:56:11.929Z",
               "EditorCaption": ""
@@ -53,14 +70,14 @@
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\jurnal7_2_1201210018.json",
               "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_2_1201210018.json",
               "RelativeToolTip": "modul7_kelompok_pertamina\\jurnal7_2_1201210018.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-24T14:46:40.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "jurnal7_1_1201210018.json",
               "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_1_1201210018.json",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\jurnal7_1_1201210018.json",
@@ -73,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\.gitignore",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\.gitignore",
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\Program.cs",
               "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_pertamina\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T13:04:57.823Z",
               "EditorCaption": ""

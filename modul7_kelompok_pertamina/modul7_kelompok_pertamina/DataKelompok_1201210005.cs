@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
-class 
-{
 
 public class TeamMembers
 {
@@ -22,9 +20,9 @@ public class Team
 
 public class DataTeamMember_1201210018
 {
-	public void ReadJSON(string filePath)
+	public void ReadJSON(string filePath2)
 	{
-		string jsonContent = File.ReadAllText(filePath);
+		string jsonContent = File.ReadAllText(filePath2);
 
 		Team team = JsonSerializer.Deserialize<Team>(jsonContent);
 
@@ -35,5 +33,3 @@ public class DataTeamMember_1201210018
 		}
 	}
 }
-
-}	
