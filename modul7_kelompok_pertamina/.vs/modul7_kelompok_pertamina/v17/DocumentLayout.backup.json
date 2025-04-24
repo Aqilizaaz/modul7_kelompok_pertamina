@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|d:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "modul7_kelompok_pertamina",
+              "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj",
+              "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj",
+              "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj",
+              "RelativeToolTip": "modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T14:20:40.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\.gitignore",
+              "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\.gitignore",
+              "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\.gitignore",
+              "RelativeToolTip": "modul7_kelompok_pertamina\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T13:06:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\Program.cs",
               "ToolTip": "D:\\pertamini\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_pertamina\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T13:04:57.823Z",
               "EditorCaption": ""
