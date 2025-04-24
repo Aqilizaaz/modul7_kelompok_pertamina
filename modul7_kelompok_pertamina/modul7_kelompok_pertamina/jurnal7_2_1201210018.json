@@ -15,11 +15,18 @@
         "nim": "120120005"
     },
     {
-       "firstName": "Kresna Agung",
-       "lastName": "Wijaya Sukmana",
-       "gender": "male",
-       "age": 22,
-       "nim": "1201212021"
+        "firstName": "Kresna Agung",
+        "lastName": "Wijaya Sukmana",
+        "gender": "male",
+        "age": 22,
+        "nim": "1201212021"
+    }
+    {
+        "firstName": "Aqil Izaaz",
+        "lastName": "Harianto",
+        "gender": "male",
+        "age": 22,
+        "nim": "120121018"
     }
   ]
 }
