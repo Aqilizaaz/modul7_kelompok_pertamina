@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\glossentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\glossentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_3_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\jurnal7_3_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|solutionrelative:modul7_kelompok_pertamina\\datakelompok_1201210005.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D601E2E-3708-48D3-B4A4-97E579701B46}|modul7_kelompok_pertamina\\modul7_kelompok_pertamina.csproj|c:\\users\\akay\\onedrive - telkom university\\documents\\github\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_2_1201210018.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glossentry.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Glossentry.cs",
+              "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\Glossentry.cs",
+              "ToolTip": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Glossentry.cs",
+              "RelativeToolTip": "modul7_kelompok_pertamina\\Glossentry.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:13:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "jurnal7_3_1201210018.json",
+              "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_3_1201210018.json",
+              "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\jurnal7_3_1201210018.json",
+              "ToolTip": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_3_1201210018.json",
+              "RelativeToolTip": "modul7_kelompok_pertamina\\jurnal7_3_1201210018.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T17:10:42.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "jurnal7_2_1201210018.json",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_2_1201210018.json",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\jurnal7_2_1201210018.json",
@@ -50,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "jurnal7_1_1201210018.json",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\jurnal7_1_1201210018.json",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\jurnal7_1_1201210018.json",
@@ -62,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\.gitignore",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\.gitignore",
@@ -74,33 +108,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Program.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\Program.cs",
               "ToolTip": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\Program.cs",
               "RelativeToolTip": "modul7_kelompok_pertamina\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAACuAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAC3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T13:04:57.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DataKelompok_1201210005.cs",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
               "ToolTip": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
               "RelativeToolTip": "modul7_kelompok_pertamina\\DataKelompok_1201210005.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:30:00.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DataMahasiswa_1201210018.cs",
               "DocumentMoniker": "C:\\Users\\akay\\OneDrive - Telkom University\\Documents\\GitHub\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
               "RelativeDocumentMoniker": "modul7_kelompok_pertamina\\DataMahasiswa_1201210018.cs",
